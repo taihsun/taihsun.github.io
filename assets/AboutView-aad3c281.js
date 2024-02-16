@@ -1,1 +1,0 @@
-import{a1 as e,o as a,f as o,z as t,F as n,g as r}from"./index-dfa148fa.js";const s=r("br",null,null,-1),u=e({__name:"AboutView",setup(c){return(l,_)=>(a(),o(n,null,[t(" Program Version: dv002"),s],64))}});export{u as default};
