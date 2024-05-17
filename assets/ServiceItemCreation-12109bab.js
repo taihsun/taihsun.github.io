@@ -1,1 +1,0 @@
-import{_ as e}from"./ServiceItemComponent-1d39b521.js";import{o as t,f as a,h as o,F as r,g as s}from"./index-6e351f0c.js";import"./FormSchemaStore-64925bf0.js";import"./Option-3450003d.js";const c=s("h4",{class:"fw-bold py-3 mb-4"},"建立服務項目",-1),d={__name:"ServiceItemCreation",setup(m){return(_,n)=>(t(),a(r,null,[c,o(e)],64))}};export{d as default};
