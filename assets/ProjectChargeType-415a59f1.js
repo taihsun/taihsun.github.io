@@ -1,1 +1,0 @@
-var s=(n=>(n[n.INDUSTRY=0]="INDUSTRY",n[n.ACADEMIC=1]="ACADEMIC",n))(s||{});const e=n=>{switch(n){case 0:return"非學術界";case 1:return"學術界";default:return""}},t=()=>[{id:0,name:e(0),value:s[0]},{id:1,name:e(1),value:s[1]}];export{s as P,t as g};

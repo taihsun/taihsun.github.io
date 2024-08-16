@@ -1,1 +1,0 @@
-import{d as e,o as a,c as o,G as t,F as n,a as r}from"./index-b61f44e7.js";const s=r("br",null,null,-1),u=e({__name:"AboutView",setup(c){return(l,_)=>(a(),o(n,null,[t(" Program Version: dv002"),s],64))}});export{u as default};
